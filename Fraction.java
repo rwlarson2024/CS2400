@@ -1,4 +1,4 @@
-
+// Hello World
 import java.util.Scanner;
 public class Fraction 
 {
@@ -32,7 +32,7 @@ public class Fraction
                 num1 = 1;
                 break; }
         }
-        return num1;
+        return num1
     }
 
     private void dataNorm(int numINP, int denINP)

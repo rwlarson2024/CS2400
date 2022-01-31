@@ -1,4 +1,4 @@
-
+// Good bye, Friend
 import java.util.*;
 public class FractionDemo
 {
@@ -8,7 +8,7 @@ public class FractionDemo
         {
             Scanner kb = new Scanner(System.in);
             Fraction f1 = new Fraction();
-            Fraction f2 = new Fraction();
+            Fraction f2 = new Fraction
 
             System.out.println("Fraction 1 :");
             f1 = f1.read();
