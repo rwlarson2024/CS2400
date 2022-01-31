@@ -1,5 +1,4 @@
-//Hello world
-//This my code and its amamzing. 
+
 import java.util.Scanner;
 public class Fraction 
 {
