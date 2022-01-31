@@ -1,4 +1,4 @@
-
+// yuh
 import java.util.Scanner;
 public class Fraction 
 {
